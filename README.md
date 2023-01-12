@@ -6,7 +6,7 @@ AstroGhost is an RPG game made by Hang Pham, where users follow the journey of s
 Follow along the story to learn about the ghosts within the world of AstroGhost. Utilizing the keyboard, control one of seven ghosts and fight against the evil villains to escape the barren planet. Each ghost has an unique skill, so remember to check that out! More instructions are available within the game. 
 
 ## Installation
-Start the game by running Main.java. Every file but the README.md file and files in the bin folder are required for the game to function.
+Start the program by running Main.java. 
 
 
 ## Contributing
