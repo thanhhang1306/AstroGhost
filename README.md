@@ -1,5 +1,5 @@
 # AstroGhost (a novel RPG game by Hang Pham)
-AstroGhost is a novel RPG game made by Hang Pham, where users follow the journey of seven ghosts who are currently trapped on an alien planet. Armed with unique skills from each ghost, players will navigate the world from the perspective of one ghost, ensuring the survival of the ghost-kind against the evil aliens! The characters within the game are personally designed with inspiration from Genshin Impact (by HoYoverse). The targeted audience for AstroGhost is 12+. Note that this game has only been tested on Windows OS, not Mac OS. Therefore, playing on Mac OS might lead to incompatible fonts and other issues. 
+AstroGhost is a novel RPG game made by Hang Pham, where users follow the journey of seven ghosts who are currently trapped on an alien planet. AArmed with unique skills from each ghost, players will navigate the world from the perspective of one ghost, fighting with the enemies to ensure the survival of the ghost-kind against the evil aliens! The characters within the game are personally designed with inspiration from Genshin Impact (by HoYoverse). The targeted audience for AstroGhost is 12+. Note that this game has only been tested on Windows OS, not Mac OS. Therefore, playing on Mac OS might lead to incompatible fonts and other issues. 
 
 
 ## Guide to Game
